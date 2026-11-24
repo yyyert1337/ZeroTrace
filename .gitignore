@@ -1,0 +1,34 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.user
+*.userprefs
+*.suo
+*.sln.docstates
+
+# MSBuild temporary files
+*_wpftmp.csproj
+*.FileListAbsolute.txt
+*.cache
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Scratch and temporary scripts
+*.tmp
+*.log
